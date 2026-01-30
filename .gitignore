@@ -1,0 +1,25 @@
+# ---- Python virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# ---- Python cache / bytecode ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE settings ----
+.idea/
+.vscode/
+
+# ---- Jupyter / checkpoints (if any) ----
+.ipynb_checkpoints/
+
+# ---- Logs (optional) ----
+*.log
